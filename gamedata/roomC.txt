@@ -1,0 +1,5 @@
+N = B
+E = D
+S = G
+W=A
+t = h
